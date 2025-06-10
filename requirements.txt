@@ -1,0 +1,6 @@
+# ===============================
+# requirements.txt
+# ===============================
+# Flask backend dependencies
+flask
+flask-cors
